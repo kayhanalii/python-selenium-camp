@@ -1,0 +1,5 @@
+URL = "https://www.saucedemo.com"
+LOGINBTN = "login-button"
+USERNAMEINPUT = "user-name"
+PASSWORDINPUT = "password"
+ERRORMESSAGE = "/html/body/div/div/div[2]/div[1]/div/div/form/div[3]/h3"
