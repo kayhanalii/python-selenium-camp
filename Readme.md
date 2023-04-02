@@ -15,3 +15,4 @@
 @pytest.mark.timeout: Bu dekoratör, bir test uygulamalarının belirli bir süre içinde tamamlanması gerektiğini belirtir.
 
 @pytest.mark.filterwarnings: Bu dekoratör, belirli bir testin çalıştırılması sırasında Python hatalarını yürütmek veya kontrol etmek için kullanılır.
+![test_screenshot](https://user-images.githubusercontent.com/125891146/229102880-39018a14-eab8-40f6-bd7f-44cf8b5b5d36.png)
